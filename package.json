@@ -1,0 +1,24 @@
+{
+  "name": "dashboard-app",
+  "version": "1.0.0",
+  "description": "Dashboard app with user login, insertion and recovery of metrics, graph display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jedhug/Dashboard-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jedhug/Dashboard-App/issues"
+  },
+  "homepage": "https://github.com/Jedhug/Dashboard-App#readme",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.0"
+  }
+}
