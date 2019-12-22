@@ -10,6 +10,7 @@ The basic Node.js application on TypeScript.
 git clone https://github.com/sergkudinov/ece-nodejs-4-middleware.git
 cd ece-nodejs-4-middleware
 npm install
+npm install aes-js
 ```
 
 ## Build
