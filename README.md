@@ -7,9 +7,10 @@ The basic Node.js application on TypeScript.
 ## Installing
 
 ```bash
-git clone https://github.com/sergkudinov/ece-nodejs-4-middleware.git
-cd ece-nodejs-4-middleware
+git clone https://github.com/Jedhug/Dashboard-App.git
+cd Dashboard-App
 npm install
+npm install aes-js
 ```
 
 ## Build
@@ -32,4 +33,6 @@ npm run populate
 
 ## Contributors
 
-Sergei Kudinov
+Nathan lancman
+Théo witz
+Angela Pham
